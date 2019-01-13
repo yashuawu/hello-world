@@ -1,5 +1,5 @@
 # hello-world
-Hi there！ I'm Frank, who want to learn some Python skills to make my everyday life easier! such as extract data from APPs, ayalize them, for a better understanding of the world!
+Hi there！ I'm Frank, who want to learn some Python skills to make my daily life easier! such as extract data from APPs, ayalize them, for a better understanding of the world!
 
 Nice to meet you. If you know how to use Python to make the life easier, for everybody! Please DO let me know!
 
